@@ -25,8 +25,3 @@
  ![Snake animation](https://github.com/BrianFs011/BrianFs011/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 👋 Hi, I’m @BrianFs011
-- 👀 I’m interested in React-Native
-- 🌱 I’m currently learning React-Native
-- 📫 How to reach me Phone: (67) 9 8127-5517
